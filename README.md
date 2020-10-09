@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I collect foreign bills
 -->
-🔭 I’m currently working on a full blown web application for soccer news, statistic and lives scores with a forum and a leaderboard for top most active users with PHP and MySQL ans some javascript on top of the regular HTML and CSS chect it out at http://golayiti.com/ <br>
+🔭 I’m currently working on a full blown web application for soccer news, statistics and lives scores with a forum and a leaderboard for top most active users with PHP and MySQL and some Javascript on top of the regular HTML and CSS check it out at https://golayiti.com/ <br>
 🌱 I’m currently learning React.js and Java Backend Programming <br>
 👯 I’m looking to collaborate on system programming in C++ or C <br>
 🤔 I’m looking for help with system programming in C++ and getting a Job <br>
-💬 Ask me about my experiences (I have a nice story) <br>
-📫 How to reach me: via email, https://linkedincom/in/Schmidt-Joe-Ketner-Jean<br>
+💬 Ask me about my experience (I have a nice story) <br>
+📫 How to reach me: via email, https://linkedin.com/in/Schmidt-Joe-Ketner-Jean<br>
 😄 Pronouns: He, Him, His <br>
 ⚡ Fun fact: I collect foreign bills and take pictures of the hoods! <br>

@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a full blown web application for soccer news, statistic and lives scores with a forum and a leaderboard for top most active users with PHP and MySQL
-- 🌱 I’m currently learning React and Java Backend Programming
+- 🌱 Working as a Java Backend Developer
 - 👯 I’m looking to collaborate on system programming in C++ or C++
 - 🤔 I’m looking for help with system programming in C++ and getting a Job
 - 💬 Ask me about my experiences (I have a nice story)
